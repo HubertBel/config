@@ -1,0 +1,23 @@
+import = [ "/usr/lib/node_modules/alacritty-themes/themes/Nord.toml" ]
+live_config_reload = true
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+decorations = "Buttonless"
+
+[font]
+size = 14
+
+  [font.normal]
+  family = "JetBrainsMono Nerd Font"
+
+  [font.bold]
+  family = "JetBrainsMono Nerd Font"
+
+  [font.italic]
+  family = "JetBrainsMono Nerd Font"
+
+  [font.bold_italic]
+  family = "JetBrainsMono Nerd Font"
