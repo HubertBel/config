@@ -18,8 +18,8 @@ font pango:JetBrainsMono Nerd Font 0
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 
-gaps outer 4
-gaps inner 20
+gaps outer 2
+gaps inner 10
 
 default_border pixel 0
 default_floating_border pixel 0
