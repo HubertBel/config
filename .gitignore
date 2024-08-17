@@ -43,6 +43,7 @@ user-dirs.dirs
 user-dirs.locale
 connections.db
 .gsd-keyboard.settings-ported
+QtProject.conf
 
 # Other directory #
 ######################
