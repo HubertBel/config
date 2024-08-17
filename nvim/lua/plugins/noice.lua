@@ -24,5 +24,5 @@ return {
 			},
 		})
 	end,
-    vim.keymap.set("n", "<leader>nd", "<CMD>Noice dismiss<CR>")
+    vim.keymap.set("n", "<leader>dd", "<CMD>Noice dismiss<CR>")
 }
