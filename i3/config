@@ -127,6 +127,12 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
+set $hdmi HDMI-2
+
+workspace 1 output $hdmi
+workspace 2 output $hdmi
+workspace 3 output $hdmi
+
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1"
