@@ -18,6 +18,4 @@ require("lazy").setup({
 	spec = {
 		{ import = "plugins" },
 	},
-	install = { colorscheme = { "nord" } },
-	checker = { enabled = true },
 })

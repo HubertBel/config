@@ -18,7 +18,4 @@ return {
         { "<leader>3", "<cmd>Grapple select index=3<cr>",  desc = "Select third tag" },
         { "<leader>4", "<cmd>Grapple select index=4<cr>",  desc = "Select fourth tag" },
     },
-    win_opts = {
-        border = "rounded",
-    },
 }
